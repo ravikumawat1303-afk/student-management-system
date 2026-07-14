@@ -10,7 +10,7 @@ Features:
 - View Students
 - Generate Report
 
-Author: Your Name
+Author: Ravi Kumawat
 """
 
 
