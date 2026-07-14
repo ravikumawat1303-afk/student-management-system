@@ -53,7 +53,7 @@ def update_student():
 
     name = input("Enter new name: ")
     try:
-        semester = int(input("Enter semester: "))
+        semester = int(input("Enter new semester: "))
     except ValueError:
         print("Invalid semester.")
         return
